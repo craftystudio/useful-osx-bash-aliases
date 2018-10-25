@@ -1,5 +1,7 @@
 # useful-osx-bash-aliases
 
+Just go to your home dir and add them to .bash_profile file
+
 Show hidden files
 
 ```
