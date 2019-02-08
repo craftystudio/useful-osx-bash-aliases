@@ -31,5 +31,5 @@ pushallmaster
 Removes all node_modules dirs in specific directory
 
 ```
-rmnodemodulea
+rmnodemodules
 ```
