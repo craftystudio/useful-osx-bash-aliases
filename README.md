@@ -16,7 +16,7 @@ Hide hidden files
 hidehf
 ```
 
-Show your Ip adress
+Show your IP adress
 
 ```
 myip
