@@ -28,7 +28,7 @@ Push all files to github master
 pushallmaster
 ```
 
-Removes all node_modules dirs in specific directory
+Removes all node_modules dirs in current directory
 
 ```
 rmnodemodules
